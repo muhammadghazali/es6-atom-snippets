@@ -1,4 +1,4 @@
-# we ignore all the files inside upload directory
+# we ignore all the files inside .atom directory
 /*
 # then we only include the following files, the rest of the files will be ignored
 !.gitignore
