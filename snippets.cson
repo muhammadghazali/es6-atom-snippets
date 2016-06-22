@@ -31,9 +31,10 @@
 			chai.use(chaiAsPromised);
 			chai.use(dirtyChai);
 
-			describe('create calendar entry', function () {
-				it('should have unit test!', function () {
-					expect(calendarApiIntegration).to.be.ok();
+			describe('name your test', function () {
+				it('your expectation', function () {
+					// your assertions
+					expect(true).to.be.ok();
 				});
 			});
 		"""
